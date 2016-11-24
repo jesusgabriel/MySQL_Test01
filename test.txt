@@ -1,0 +1,7 @@
+describe transactions
+UPDATE
+UPDATE transactions SET  language='Japanese' WHERE language='English';
+INSERT INTO
+INSERT INTO word (country) VALUES (Trumplandia);
+AND y OR
+SELECT country, population FROM word WHERE Country='all' AND population < 10000000;
